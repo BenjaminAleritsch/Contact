@@ -134,7 +134,8 @@ Other means of Contact will not be accepted and your Messages will go unanswered
 
 <strong>Wake up:</strong>
 
-<iframe src="https://www.youtube.com/embed/Hw88MWoqenQ" width="100%" height="458" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Hw88MWoqenQ/0.jpg)](https://www.youtube.com/watch?v=Hw88MWoqenQ)
+
 <p style="text-align: justify;">"<em>The Matrix is a system Neo, that system is our enemy. When you're inside you look around, what do you see? Businessmen, teachers, lawyers, carpenters, the very minds of the people we are trying to save. But until we do, these people are still a part of that system, and that makes them our enemy. You have to understand, most of these people are not ready to be unplugged. And many of them are so inert, so hopelessly dependent on the system, that they will fight to protect it. Are you listening to me Neo, or were you looking at the woman in the red dress?</em> [...]<em> Look again!</em>"</p>
 &nbsp;
 
