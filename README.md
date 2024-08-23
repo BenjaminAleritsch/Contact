@@ -41,7 +41,8 @@ Evidently the NSA, GCHQ, BND et cetera are all working on a global system for su
 
 5) Contact me and receive my anonymous <a href="https://en.wikipedia.org/wiki/XMPP" target="_blank" rel="noopener">XMPP</a> ID through
 <p style="padding-left: 30px;"><strong><span style="color: #bf4d28;">B+njamin.Al+ritsch@yax.im</span></strong></p>
-(replace "+" by "e" - this is my official and rarely checked account so stay tuned)<br>
+(replace "+" by "e" - this is my official and rarely checked account so stay tuned)
+<br><br>
 
 6) Install <a href="https://www.torproject.org" target="_blank" rel="noopener">Tor</a>:
 
