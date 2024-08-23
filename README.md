@@ -91,6 +91,28 @@ PSA: Create a new private account for each contact. Do not forget to also route 
 
 &nbsp;
 
+<strong>Fallback: Desktop & Mobile Chat: <a href="https://briarproject.org/" target="_blank" rel="noopener">Briar</a> via <a href="https://www.torproject.org" target="_blank" rel="noopener">Tor</a></strong>
+
+Briar has the advantage of working serverless. However, since this means keeping alive P2P connections as its own server, it will be more of a batterydrain for mobile devices. This is why I use it as a fallback solution in case XMPP, servers or networks got compromised.
+
+1) Download & install the relevant client: <a href="https://briarproject.org/installing-briar-via-f-droid/" target="_blank" rel="noopener">Mobile</a> | <a href="https://briarproject.org/download-briar-desktop/" target="_blank" rel="noopener">Desktop Beta</a>
+
+2) Use my personal Briar link 
+
+<code>briar://aax6gy2lv4kzvn35lymuijoghd2rthuqskgjq73zzeomledb3d2q6</code>
+
+to add my public Briar account.
+
+3) Once our public Briar accounts have been connected, we can exchange IDs of our private Briar accounts.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 <strong>Why I dont use:</strong>
 
 A landline<sup>[1], [2], [6]</sup>, A SIM card<sup>[1], [2], [6]</sup>, E-Mail<sup>[1]</sup>, Facebook Chat<sup>[1], [2]</sup>, Skype<sup>[1], [2], [7]</sup>, Whatsapp<sup>[2], [3]</sup>, Signal<sup>[2], [3], [4], [7]</sup>, Threema<sup>[2], [3], [7]</sup>, Telegram<sup>[2], [3], [7]</sup>, Wire<sup>[2], [7]</sup>, PGP/SMIME<sup>[4]</sup>, MS Teams<sup>[1][2][3][4][5]</sup>
