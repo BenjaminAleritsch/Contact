@@ -32,26 +32,33 @@ Evidently the NSA, GCHQ, BND et cetera are all working on a global system for su
 <code>sudo apt-get install gajim</code>
 
 2) In <a href="https://gajim.org/" target="_blank" rel="noopener">Gajim</a>, activate the <a href="https://gultsch.de/talks/omemo.html#/" target="_blank" rel="noopener">Omemo</a> Plugin(Menu / Edit / Plugins).
+
 3) Create a XMPP account (XMPP Server List <a href="https://hacker10.com/computer-security/the-best-xmppjabber-servers-for-anonymous-chat/" target="_blank" rel="noopener">1</a>, <a href="https://list.jabber.at/" target="_blank" rel="noopener">2</a>) . Example:
 
 <code>our.government.lies.to.us@jabber.systemli.org</code>
 
 4) Make sure that <a href="https://gultsch.de/talks/omemo.html#/" target="_blank" rel="noopener">Omemo</a> is working i.e. Authorization Request and Fingerprint must be confirmed first.
+
 5) Contact me and receive my anonymous <a href="https://en.wikipedia.org/wiki/XMPP" target="_blank" rel="noopener">XMPP</a> ID through
 <p style="padding-left: 30px;"><strong><span style="color: #bf4d28;">B+njamin.Al+ritsch@yax.im</span></strong></p>
 (replace "+" by "e" - this is my official and rarely checked account so stay tuned)
+
 6) Install <a href="https://www.torproject.org" target="_blank" rel="noopener">Tor</a>:
 
 <code>sudo apt-get install tor</code>
 
 7) Configure <a href="https://gajim.org/" target="_blank" rel="noopener">Gajim</a> to use <a href="https://www.torproject.org" target="_blank" rel="noopener">Tor</a>.
+
 8) Create a private/secret/anonymous account on a server supporting at least <a href="http://xmpp.org/extensions/xep-0384.html" target="_blank" rel="noopener">XEP-0384</a> and <a href="http://xmpp.org/extensions/xep-0280.html" target="_blank" rel="noopener">XEP-0280</a> (<a href="https://xmpp.org/extensions/" target="_blank" rel="noopener">XEP List</a>, XMPP Server List <a href="https://hacker10.com/computer-security/the-best-xmppjabber-servers-for-anonymous-chat/" target="_blank" rel="noopener">1</a>, <a href="https://list.jabber.at/" target="_blank" rel="noopener">2</a>) directly in Gajim or optionally via Tor Browser. Example:
 
 <code>hvil3kclv@riotcat.org</code>
 
 9) Send me the ID of the private XMPP account you just created through the encrypted chat between our public accounts.
+
 10) Wait until I connect to your private account via my private account.
+
 11) Make sure that <a href="https://gultsch.de/talks/omemo.html#/" target="_blank" rel="noopener">Omemo</a> is working i.e. Authorization Request and Fingerprint must be confirmed first.
+
 PSA: Create a new private account for each contact. Do not forget to also route through <a href="https://www.torproject.org" target="_blank" rel="noopener">Tor</a> as above.
 
 &nbsp;
