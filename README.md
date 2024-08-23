@@ -157,8 +157,6 @@ I welcome new Solutions for Communication which meet the following Criteria:
 - Deniability/Anonymity
 - CrossPlatform
 
-<a href="https://en.wikipedia.org/wiki/Briar_(software)" target="_blank" rel="noopener">Briar</a> (<a href="https://f-droid.org/en/packages/org.briarproject.briar.android/" target="_blank" rel="noopener">Android</a>, <a href="https://briarproject.org/download-briar-desktop/" target="_blank" rel="noopener">Linux &amp; Win</a>) looks promising at the moment. No app for shitty iOS/MacOS (yet) though.
-
 Relevant Intel: | <a href="https://minifree.org/" target="_blank" rel="noopener">Ministry of Freedom</a> | <a href="https://libreboot.org/" target="_blank" rel="noopener">LibreBoot Project</a> | <a href="http://hackaday.com/2016/11/28/neutralizing-intels-management-engine/" target="_blank" rel="noopener">Neutralizing Intel's Management Engine (Hackaday)</a> | <a href="https://hackaday.com/2018/05/26/flash-your-libre-firmware-with-a-libre-programmer/" target="_blank" rel="noopener">Libre Firmware Flasher(Hackaday)</a> |
 
 Other means of Contact will not be accepted and your Messages will go unanswered. So please refrain from contacting me by sending Messages through unprotected Channels, particularly such as unencrypted Chat in Social Networks, GSM(SMS, Calls) or similar.
