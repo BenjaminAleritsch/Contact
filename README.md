@@ -63,23 +63,31 @@ PSA: Create a new private account for each contact. Do not forget to also route 
 &nbsp;
 
 <strong>For your mobile devices: <a href="https://www.lineageos.org/" target="_blank" rel="noopener">LineageOS</a> Chat: <a href="https://en.wikipedia.org/wiki/XMPP" target="_blank" rel="noopener">XMPP</a> &amp; <a href="https://gultsch.de/talks/omemo.html#/" target="_blank" rel="noopener">Omemo</a> in <a href="https://f-droid.org/en/packages/eu.siacs.conversations/" target="_blank" rel="noopener">Conversations</a> via <a href="https://www.torproject.org" target="_blank" rel="noopener">Tor</a></strong>
+
 1) Install/Use <a href="https://f-droid.org/en/packages/eu.siacs.conversations/" target="_blank" rel="noopener">Conversations</a> or <a href="https://apps.apple.com/us/app/chatsecure-messenger/id464200063" target="_blank" rel="noopener">ChatSecure</a> for compromised smartphones(still better than nothing).
+
 2) Create a XMPP account (XMPP Server List <a href="https://hacker10.com/computer-security/the-best-xmppjabber-servers-for-anonymous-chat/" target="_blank" rel="noopener">1</a>, <a href="https://list.jabber.at/" target="_blank" rel="noopener">2</a>) . Example:
 
 <code>our.government.lies.to.us@jabber.systemli.org</code>
 
 3) Make sure that <a href="https://gultsch.de/talks/omemo.html#/" target="_blank" rel="noopener">Omemo</a> is working i.e. Authorization Request and Fingerprint must be confirmed first.
+
 4) Contact me and receive my anonymous <a href="https://en.wikipedia.org/wiki/XMPP" target="_blank" rel="noopener">XMPP</a> ID through
 <p style="padding-left: 30px;"><strong><span style="color: #bf4d28;">B+njamin.Al+ritsch@yax.im</span></strong></p>
 (replace "+" by "e" - this is my official and rarely checked account so stay tuned)
+
 5) Install <a href="https://guardianproject.info/2012/03/15/our-new-f-droid-app-repository/" target="_blank" rel="noopener">Orbot</a> and configure it to route Conversations.
+
 6) Configure <a href="https://f-droid.org/repository/browse/?fdfilter=conversations&amp;fdid=eu.siacs.conversations" target="_blank" rel="noopener">Conversations</a> to use <a href="https://guardianproject.info/2012/03/15/our-new-f-droid-app-repository/" target="_blank" rel="noopener">Orbot</a> (Settings / Expert Settings / Connect via <a href="https://www.torproject.org" target="_blank" rel="noopener">Tor</a>).
+
 7) Create a private/secret/anonymous account on a server supporting at least <a href="http://xmpp.org/extensions/xep-0384.html" target="_blank" rel="noopener">XEP-0384</a> and <a href="http://xmpp.org/extensions/xep-0280.html" target="_blank" rel="noopener">XEP-0280</a> (<a href="https://xmpp.org/extensions/" target="_blank" rel="noopener">XEP List</a>, XMPP Server List <a href="https://hacker10.com/computer-security/the-best-xmppjabber-servers-for-anonymous-chat/" target="_blank" rel="noopener">1</a>, <a href="https://list.jabber.at/" target="_blank" rel="noopener">2</a>) directly in your XMPP app or optionally via Tor Browser. Example:
 
 <code>hvil3kclv@riotcat.org</code>
 
 8) Send me the ID of the private XMPP account you just created through the encrypted chat between our public accounts.
+
 9) Wait until I connect to your private account via my private account.
+
 10) Make sure that <a href="https://gultsch.de/talks/omemo.html#/" target="_blank" rel="noopener">Omemo</a> is working i.e. Authorization Request and Fingerprint must be confirmed first.
 PSA: Create a new private account for each contact. Do not forget to also route through <a href="https://www.torproject.org" target="_blank" rel="noopener">Tor</a> as above.
 
